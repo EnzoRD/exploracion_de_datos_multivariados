@@ -1,41 +1,43 @@
-# Exploración de datos multivariados parte 1
-Trabajo práctico N°1 de la materia exploración de datos multivariados.
+# Exploración de Datos Multivariados - Parte 1
 
-Se nos proporcionó un dataset con el boletín de notas de alumnos de primaria y secundaria del departamento La Paz de la provincia de Entre Ríos Argentina.
+## Descripción
+Este proyecto representa el Trabajo Práctico N°1 de la materia "Exploración de Datos Multivariados". Se nos proporcionó un conjunto de datos que contiene las calificaciones de los estudiantes de primaria y secundaria del departamento La Paz, provincia de Entre Ríos, Argentina.
 
-Utilizando el lenguaje R y la herramiento jupyter notebook, se realizaron las siguientes actividades:
+Este trabajo se realizó en colaboración con [Angelo Venturini](https://github.com/Nefertumm).
 
--Análisis exploratorio de los datos
+## Actividades Realizadas
+Utilizando el lenguaje de programación R y la herramienta Jupyter Notebook, se llevaron a cabo las siguientes actividades:
 
--Análisis de representatividad de la muestra
+- **Análisis Exploratorio de Datos:** Se exploraron los datos para comprender mejor su estructura y características.
 
--Reorganización y limpieza del dataset
+- **Análisis de Representatividad de la Muestra:** Se evaluó la representatividad de la muestra en relación con la población estudiantil.
 
--Análisis de las característica generales, distribución
+- **Reorganización y Limpieza del Conjunto de Datos:** Se realizaron tareas de preprocesamiento de datos para garantizar la calidad de los datos.
 
--Análisis del rendimiento académico de las asignaturas matemática y lengua
+- **Análisis de Características Generales:** Se examinaron las características generales de los datos, como estadísticas descriptivas y distribuciones.
 
--Estudio de posible correlación entre notas promedio de las asignaturas matemática y biología.
+- **Análisis del Rendimiento Académico:** Se realizó un análisis detallado del rendimiento académico en las asignaturas de matemáticas y lengua.
 
-Este trabajo fue realizado en conjunto con Angelo Venturini (https://github.com/Nefertumm)
+- **Estudio de Correlación:** Se investigó la posible correlación entre las calificaciones promedio de las asignaturas de matemáticas y biología.
 
-# Multivariate data exploration part 1
-Practical work N°1 of the multivariate data exploration subject.
 
-We were provided with a dataset containing the report card grades of primary and secondary school students from the La Paz department of the province of Entre Ríos, Argentina.
+# Exploración de Datos Multivariados - Parte 2
 
-Using the R language and the Jupyter Notebook tool:
+## Descripción
+En esta segunda parte del proyecto, continuamos trabajando con el mismo conjunto de datos. Las actividades realizadas incluyeron:
 
--Exploratory data analysis
+1. **Comparación de Medias:** Se llevaron a cabo análisis comparativos de las medias de diferentes variables.
 
--Analysis of sample representativeness
+2. **Análisis Bivariado Cualitativo:** Se exploró la relación entre pares de variables cualitativas.
 
--Dataset reorganization and cleaning
+3. **Análisis Multivariado Cuantitativo:** Se realizaron análisis avanzados que involucraron múltiples variables cuantitativas.
 
--Analysis of general characteristics, distribution
+Para obtener más información sobre estas actividades, consulte el archivo "Trabajo Práctico Nº2" en este repositorio.
 
--Analysis of academic performance in math and language subjects
+## Enlaces
+- [Trabajo Práctico N°1 (PDF)](https://github.com/EnzoRD/exploracion_de_datos_multivariados/blob/main/Trabajo%20Pr%C3%A1ctico%20N%C2%B01.pdf)
 
--Study of possible correlation between average grades in math and biology subjects.
 
-This work was done in conjunction with Angelo Venturini (https://github.com/Nefertumm)
+
+- [Trabajo Práctico N°2 (PDF)](https://github.com/EnzoRD/exploracion_de_datos_multivariados/blob/main/Trabajo%20Pr%C3%A1ctico%20N%C2%B02.pdf)
+
