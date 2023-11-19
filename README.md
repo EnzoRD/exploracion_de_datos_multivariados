@@ -41,3 +41,45 @@ Para obtener más información sobre estas actividades, consulte el archivo "Tra
 
 - [Trabajo Práctico N°2 (PDF)](https://github.com/EnzoRD/exploracion_de_datos_multivariados/blob/main/Trabajo%20Pr%C3%A1ctico%20N%C2%B02.pdf)
 
+# Multivariate Data Exploration - Part 1
+
+## Description
+This project represents the Practical Work N°1 of the subject "Exploration of Multivariate Data". We were provided with a dataset containing the grades of primary and secondary school students in the department of La Paz, Entre Ríos province, Argentina.
+
+This work was carried out in collaboration with [Angelo Venturini](https://github.com/Nefertumm).
+
+## Activities Performed
+Using the R programming language and the Jupyter Notebook tool, the following activities were carried out:
+
+- **Exploratory Data Analysis:** Data were explored to better understand their structure and characteristics.
+
+- Sample Representativeness Analysis:** The representativeness of the sample in relation to the student population was assessed.
+
+- Data Set Reorganisation and Cleaning:** Data pre-processing tasks were performed to ensure data quality.
+
+- General Characteristics Analysis: General characteristics of the data, such as descriptive statistics and distributions, were examined.
+
+- Academic Performance Analysis:** A detailed analysis of academic performance in the subjects of mathematics and language was carried out.
+
+- Correlation Study:** The possible correlation between the average grades in mathematics and biology was investigated.
+
+
+# Multivariate Data Exploration - Part 2
+
+## Description
+In this second part of the project, we continued working with the same data set. The activities carried out included:
+
+1. **Comparison of Means:** Comparative analyses of the means of different variables were carried out.
+
+2. **Qualitative Bivariate Analysis:** The relationship between pairs of qualitative variables was explored.
+
+3. **Quantitative Multivariate Analysis:** Advanced analyses involving multiple quantitative variables were performed.
+
+For more information on these activities, see the file "Practical Work Nº2" in this repository.
+
+## Links
+- [Practical Work No. 1 (PDF)](https://github.com/EnzoRD/exploracion_de_datos_multivariados/blob/main/Trabajo%20Pr%C3%A1ctico%20N%C2%B01.pdf)
+
+
+
+- [Practical Work N°2 (PDF)](https://github.com/EnzoRD/exploracion_de_datos_multivariados/blob/main/Trabajo%20Pr%C3%A1ctico%20N%C2%B02.pdf)
